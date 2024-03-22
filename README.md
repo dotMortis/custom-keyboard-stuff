@@ -18,5 +18,7 @@
 - 2pcs [USB-C breakout](https://amzn.eu/d/8GRZf3C)
 - 2pcs [TRRS 3,5mm jack](https://amzn.eu/d/6R1kecH)
 - [Kabellitzen AWG30](https://amzn.eu/d/3I6bMsD)
+- [3PIN 3,5mm audio cable](https://amzn.eu/d/cOcG1Gq)
+- [Sickes USB C Kabel](https://amzn.eu/d/7lgVILY)
 - (OPT) [Kabellitzen AWG26](https://amzn.eu/d/fRbvxyn)
 - (OPT) [WS2812b LEDs](https://amzn.eu/d/d8vTvwP)
